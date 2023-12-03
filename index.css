@@ -303,10 +303,16 @@ a{
         display: none;
 
     }
+   
+    .f9-section{
+        margin-bottom: 350px;
+    }
+
 
 }
 @media(max-width:900px)
 {
+   
     .p4 {
         font-size: 50px;
         text-align: left;
